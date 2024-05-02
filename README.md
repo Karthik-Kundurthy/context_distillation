@@ -3,4 +3,6 @@ LLM Finetuning Project - Implementation of Context Distillation as described in 
 
 - Using "Teacher_model_context_distillation" for extraction of of teacher probability distribution
 
-- "Context_Distillation_Final" notebook provides code for finetuning and the generated outputs of the finetuned student model
+- "Context_Distillation_Final" notebook contains finetuned student model and the generated outputs
+
+- "Baseline Model" notebook evaluates the baseline performance of the teacher model on MMLU raw inputs. 
